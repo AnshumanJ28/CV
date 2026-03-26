@@ -19,9 +19,12 @@ NumPy
 CSV file handling
 **Project Structure**
 Project Folder/
+
 │
 ├── FaceReg.py
+
 ├── Attendance.csv
+
 └── Project Image/
    
 **How It Works**
