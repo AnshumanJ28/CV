@@ -4,7 +4,7 @@ import face_recognition
 import os
 from datetime import datetime
 
-path = r'C:\Users\anshu\OneDrive\Documents\Project Image'
+path = Image
 os.chdir(path)
 images = []
 classNames = []
